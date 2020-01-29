@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\bin\Debug\netcoreapp2.1\Numero_Raiz.deps.json
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\bin\Debug\netcoreapp2.1\Numero_Raiz.runtimeconfig.json
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\bin\Debug\netcoreapp2.1\Numero_Raiz.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\bin\Debug\netcoreapp2.1\Numero_Raiz.dll
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\bin\Debug\netcoreapp2.1\Numero_Raiz.pdb
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\obj\Debug\netcoreapp2.1\Numero_Raiz.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\obj\Debug\netcoreapp2.1\Numero_Raiz.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\obj\Debug\netcoreapp2.1\Numero_Raiz.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\obj\Debug\netcoreapp2.1\Numero_Raiz.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\obj\Debug\netcoreapp2.1\Numero_Raiz.dll
+D:\projetos\git\github\Exercicios_While\Numero_Raiz\Numero_Raiz\Numero_Raiz\obj\Debug\netcoreapp2.1\Numero_Raiz.pdb

@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\bin\Debug\netcoreapp2.1\Dados_Funcionario.deps.json
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\bin\Debug\netcoreapp2.1\Dados_Funcionario.runtimeconfig.json
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\bin\Debug\netcoreapp2.1\Dados_Funcionario.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\bin\Debug\netcoreapp2.1\Dados_Funcionario.dll
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\bin\Debug\netcoreapp2.1\Dados_Funcionario.pdb
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\obj\Debug\netcoreapp2.1\Dados_Funcionario.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\obj\Debug\netcoreapp2.1\Dados_Funcionario.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\obj\Debug\netcoreapp2.1\Dados_Funcionario.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\obj\Debug\netcoreapp2.1\Dados_Funcionario.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\obj\Debug\netcoreapp2.1\Dados_Funcionario.dll
+D:\projetos\git\github\Exercicios_OO\Dados_Funcionario\Dados_Funcionario\obj\Debug\netcoreapp2.1\Dados_Funcionario.pdb

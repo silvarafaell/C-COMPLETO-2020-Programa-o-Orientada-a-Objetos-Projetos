@@ -1,0 +1,11 @@
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\netcoreapp2.1\Operadores_Logicos.deps.json
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\netcoreapp2.1\Operadores_Logicos.runtimeconfig.json
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\netcoreapp2.1\Operadores_Logicos.runtimeconfig.dev.json
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\netcoreapp2.1\Operadores_Logicos.dll
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\netcoreapp2.1\Operadores_Logicos.pdb
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\netcoreapp2.1\Operadores_Logicos.csprojAssemblyReference.cache
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\netcoreapp2.1\Operadores_Logicos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\netcoreapp2.1\Operadores_Logicos.AssemblyInfoInputs.cache
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\netcoreapp2.1\Operadores_Logicos.AssemblyInfo.cs
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\netcoreapp2.1\Operadores_Logicos.dll
+D:\projetos\git\github\Operadores_Logicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\netcoreapp2.1\Operadores_Logicos.pdb

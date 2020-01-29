@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formula bhaskara", "formula bhaskara\formula bhaskara.csproj", "{3B17BAA2-842F-4615-9064-76ED1618ACCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B17BAA2-842F-4615-9064-76ED1618ACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B17BAA2-842F-4615-9064-76ED1618ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B17BAA2-842F-4615-9064-76ED1618ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B17BAA2-842F-4615-9064-76ED1618ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6677F517-AB97-4E6F-8580-616EECC65B9E}
+	EndGlobalSection
+EndGlobal

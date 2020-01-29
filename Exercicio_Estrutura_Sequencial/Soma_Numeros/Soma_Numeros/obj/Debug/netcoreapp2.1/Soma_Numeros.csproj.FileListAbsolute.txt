@@ -1,0 +1,10 @@
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\bin\Debug\netcoreapp2.1\Soma_Numeros.deps.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\bin\Debug\netcoreapp2.1\Soma_Numeros.runtimeconfig.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\bin\Debug\netcoreapp2.1\Soma_Numeros.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\bin\Debug\netcoreapp2.1\Soma_Numeros.dll
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\bin\Debug\netcoreapp2.1\Soma_Numeros.pdb
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\obj\Debug\netcoreapp2.1\Soma_Numeros.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\obj\Debug\netcoreapp2.1\Soma_Numeros.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\obj\Debug\netcoreapp2.1\Soma_Numeros.AssemblyInfo.cs
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\obj\Debug\netcoreapp2.1\Soma_Numeros.dll
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Soma_Numeros\Soma_Numeros\obj\Debug\netcoreapp2.1\Soma_Numeros.pdb

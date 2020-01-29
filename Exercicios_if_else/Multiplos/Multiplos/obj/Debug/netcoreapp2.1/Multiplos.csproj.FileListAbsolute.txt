@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\bin\Debug\netcoreapp2.1\Multiplos.deps.json
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\bin\Debug\netcoreapp2.1\Multiplos.runtimeconfig.json
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\bin\Debug\netcoreapp2.1\Multiplos.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\bin\Debug\netcoreapp2.1\Multiplos.dll
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\bin\Debug\netcoreapp2.1\Multiplos.pdb
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\obj\Debug\netcoreapp2.1\Multiplos.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\obj\Debug\netcoreapp2.1\Multiplos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\obj\Debug\netcoreapp2.1\Multiplos.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\obj\Debug\netcoreapp2.1\Multiplos.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\obj\Debug\netcoreapp2.1\Multiplos.dll
+D:\projetos\git\github\Exercicios_if_else\Multiplos\Multiplos\obj\Debug\netcoreapp2.1\Multiplos.pdb

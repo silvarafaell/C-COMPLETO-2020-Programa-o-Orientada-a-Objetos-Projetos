@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\bin\Debug\netcoreapp2.1\Programa_Medida_Terreno.deps.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\bin\Debug\netcoreapp2.1\Programa_Medida_Terreno.runtimeconfig.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\bin\Debug\netcoreapp2.1\Programa_Medida_Terreno.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\bin\Debug\netcoreapp2.1\Programa_Medida_Terreno.dll
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\bin\Debug\netcoreapp2.1\Programa_Medida_Terreno.pdb
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\obj\Debug\netcoreapp2.1\Programa_Medida_Terreno.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\obj\Debug\netcoreapp2.1\Programa_Medida_Terreno.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\obj\Debug\netcoreapp2.1\Programa_Medida_Terreno.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\obj\Debug\netcoreapp2.1\Programa_Medida_Terreno.AssemblyInfo.cs
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\obj\Debug\netcoreapp2.1\Programa_Medida_Terreno.dll
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Programa_Medida_Terreno\Programa_Medida_Terreno\obj\Debug\netcoreapp2.1\Programa_Medida_Terreno.pdb

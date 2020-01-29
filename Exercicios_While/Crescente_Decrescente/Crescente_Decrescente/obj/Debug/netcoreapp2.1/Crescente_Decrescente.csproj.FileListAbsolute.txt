@@ -1,0 +1,10 @@
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\bin\Debug\netcoreapp2.1\Crescente_Decrescente.deps.json
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\bin\Debug\netcoreapp2.1\Crescente_Decrescente.runtimeconfig.json
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\bin\Debug\netcoreapp2.1\Crescente_Decrescente.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\bin\Debug\netcoreapp2.1\Crescente_Decrescente.dll
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\bin\Debug\netcoreapp2.1\Crescente_Decrescente.pdb
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\obj\Debug\netcoreapp2.1\Crescente_Decrescente.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\obj\Debug\netcoreapp2.1\Crescente_Decrescente.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\obj\Debug\netcoreapp2.1\Crescente_Decrescente.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\obj\Debug\netcoreapp2.1\Crescente_Decrescente.dll
+D:\projetos\git\github\Exercicios_While\Crescente_Decrescente\Crescente_Decrescente\obj\Debug\netcoreapp2.1\Crescente_Decrescente.pdb

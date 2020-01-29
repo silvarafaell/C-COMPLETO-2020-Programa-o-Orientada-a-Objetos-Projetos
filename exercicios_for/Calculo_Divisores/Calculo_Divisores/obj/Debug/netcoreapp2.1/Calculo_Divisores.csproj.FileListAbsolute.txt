@@ -1,0 +1,11 @@
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\bin\Debug\netcoreapp2.1\Calculo_Divisores.deps.json
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\bin\Debug\netcoreapp2.1\Calculo_Divisores.runtimeconfig.json
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\bin\Debug\netcoreapp2.1\Calculo_Divisores.runtimeconfig.dev.json
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\bin\Debug\netcoreapp2.1\Calculo_Divisores.dll
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\bin\Debug\netcoreapp2.1\Calculo_Divisores.pdb
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\obj\Debug\netcoreapp2.1\Calculo_Divisores.csprojAssemblyReference.cache
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\obj\Debug\netcoreapp2.1\Calculo_Divisores.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\obj\Debug\netcoreapp2.1\Calculo_Divisores.AssemblyInfoInputs.cache
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\obj\Debug\netcoreapp2.1\Calculo_Divisores.AssemblyInfo.cs
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\obj\Debug\netcoreapp2.1\Calculo_Divisores.dll
+D:\projetos\git\github\exercicios_for\Calculo_Divisores\Calculo_Divisores\obj\Debug\netcoreapp2.1\Calculo_Divisores.pdb

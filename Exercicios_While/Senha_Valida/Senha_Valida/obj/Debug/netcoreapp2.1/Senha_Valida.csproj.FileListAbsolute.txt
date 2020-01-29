@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\bin\Debug\netcoreapp2.1\Senha_Valida.deps.json
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\bin\Debug\netcoreapp2.1\Senha_Valida.runtimeconfig.json
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\bin\Debug\netcoreapp2.1\Senha_Valida.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\bin\Debug\netcoreapp2.1\Senha_Valida.dll
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\bin\Debug\netcoreapp2.1\Senha_Valida.pdb
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\obj\Debug\netcoreapp2.1\Senha_Valida.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\obj\Debug\netcoreapp2.1\Senha_Valida.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\obj\Debug\netcoreapp2.1\Senha_Valida.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\obj\Debug\netcoreapp2.1\Senha_Valida.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\obj\Debug\netcoreapp2.1\Senha_Valida.dll
+D:\projetos\git\github\Exercicios_While\Senha_Valida\Senha_Valida\obj\Debug\netcoreapp2.1\Senha_Valida.pdb

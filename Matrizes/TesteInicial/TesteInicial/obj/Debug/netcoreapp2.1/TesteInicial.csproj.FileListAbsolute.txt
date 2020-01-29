@@ -1,0 +1,11 @@
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\bin\Debug\netcoreapp2.1\TesteInicial.deps.json
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\bin\Debug\netcoreapp2.1\TesteInicial.runtimeconfig.json
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\bin\Debug\netcoreapp2.1\TesteInicial.runtimeconfig.dev.json
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\bin\Debug\netcoreapp2.1\TesteInicial.dll
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\bin\Debug\netcoreapp2.1\TesteInicial.pdb
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\obj\Debug\netcoreapp2.1\TesteInicial.csprojAssemblyReference.cache
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\obj\Debug\netcoreapp2.1\TesteInicial.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\obj\Debug\netcoreapp2.1\TesteInicial.AssemblyInfoInputs.cache
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\obj\Debug\netcoreapp2.1\TesteInicial.AssemblyInfo.cs
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\obj\Debug\netcoreapp2.1\TesteInicial.dll
+D:\projetos\git\github\Matrizes\TesteInicial\TesteInicial\obj\Debug\netcoreapp2.1\TesteInicial.pdb

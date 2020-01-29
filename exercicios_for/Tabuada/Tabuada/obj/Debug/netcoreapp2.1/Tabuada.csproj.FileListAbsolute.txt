@@ -1,0 +1,21 @@
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.deps.json
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.json
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.dev.json
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.dll
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.pdb
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csprojAssemblyReference.cache
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfoInputs.cache
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfo.cs
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.dll
+D:\projetos\git\github\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.pdb
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.deps.json
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.json
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.dev.json
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.dll
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.pdb
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csprojAssemblyReference.cache
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfoInputs.cache
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfo.cs
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.dll
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\exercicios_for\Tabuada\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.pdb

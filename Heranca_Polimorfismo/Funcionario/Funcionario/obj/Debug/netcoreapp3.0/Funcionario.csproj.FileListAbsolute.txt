@@ -1,0 +1,11 @@
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.exe
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.deps.json
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.runtimeconfig.json
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.runtimeconfig.dev.json
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.dll
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.pdb
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.csprojAssemblyReference.cache
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.AssemblyInfoInputs.cache
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.AssemblyInfo.cs
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.dll
+D:\projetos\git\github\Heranca_Polimorfismo\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.pdb

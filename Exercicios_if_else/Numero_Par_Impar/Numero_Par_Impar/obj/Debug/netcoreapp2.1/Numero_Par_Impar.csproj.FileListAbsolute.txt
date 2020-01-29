@@ -1,0 +1,10 @@
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\bin\Debug\netcoreapp2.1\Numero_Par_Impar.deps.json
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\bin\Debug\netcoreapp2.1\Numero_Par_Impar.runtimeconfig.json
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\bin\Debug\netcoreapp2.1\Numero_Par_Impar.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\bin\Debug\netcoreapp2.1\Numero_Par_Impar.dll
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\bin\Debug\netcoreapp2.1\Numero_Par_Impar.pdb
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\obj\Debug\netcoreapp2.1\Numero_Par_Impar.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\obj\Debug\netcoreapp2.1\Numero_Par_Impar.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\obj\Debug\netcoreapp2.1\Numero_Par_Impar.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\obj\Debug\netcoreapp2.1\Numero_Par_Impar.dll
+D:\projetos\git\github\Exercicios_if_else\Numero_Par_Impar\Numero_Par_Impar\obj\Debug\netcoreapp2.1\Numero_Par_Impar.pdb

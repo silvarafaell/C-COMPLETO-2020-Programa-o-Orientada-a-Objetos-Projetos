@@ -1,0 +1,10 @@
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\obj\Debug\netcoreapp2.1\Funcionarios.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\obj\Debug\netcoreapp2.1\Funcionarios.AssemblyInfoInputs.cache
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\obj\Debug\netcoreapp2.1\Funcionarios.AssemblyInfo.cs
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\bin\Debug\netcoreapp2.1\Funcionarios.deps.json
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\bin\Debug\netcoreapp2.1\Funcionarios.runtimeconfig.json
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\bin\Debug\netcoreapp2.1\Funcionarios.runtimeconfig.dev.json
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\bin\Debug\netcoreapp2.1\Funcionarios.dll
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\bin\Debug\netcoreapp2.1\Funcionarios.pdb
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\obj\Debug\netcoreapp2.1\Funcionarios.dll
+D:\projetos\git\github\programa_oo\Funcionarios\Funcionarios\obj\Debug\netcoreapp2.1\Funcionarios.pdb

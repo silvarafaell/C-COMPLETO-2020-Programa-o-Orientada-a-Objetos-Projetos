@@ -1,0 +1,10 @@
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\bin\Debug\netcoreapp2.1\Numero_Negativo.deps.json
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\bin\Debug\netcoreapp2.1\Numero_Negativo.runtimeconfig.json
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\bin\Debug\netcoreapp2.1\Numero_Negativo.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\bin\Debug\netcoreapp2.1\Numero_Negativo.dll
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\bin\Debug\netcoreapp2.1\Numero_Negativo.pdb
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\obj\Debug\netcoreapp2.1\Numero_Negativo.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\obj\Debug\netcoreapp2.1\Numero_Negativo.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\obj\Debug\netcoreapp2.1\Numero_Negativo.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\obj\Debug\netcoreapp2.1\Numero_Negativo.dll
+D:\projetos\git\github\Exercicios_if_else\Numero_Negativo\Numero_Negativo\obj\Debug\netcoreapp2.1\Numero_Negativo.pdb

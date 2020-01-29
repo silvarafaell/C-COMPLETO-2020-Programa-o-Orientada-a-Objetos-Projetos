@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\bin\Debug\netcoreapp2.1\Media_Idade.deps.json
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\bin\Debug\netcoreapp2.1\Media_Idade.runtimeconfig.json
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\bin\Debug\netcoreapp2.1\Media_Idade.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\bin\Debug\netcoreapp2.1\Media_Idade.dll
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\bin\Debug\netcoreapp2.1\Media_Idade.pdb
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\obj\Debug\netcoreapp2.1\Media_Idade.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\obj\Debug\netcoreapp2.1\Media_Idade.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\obj\Debug\netcoreapp2.1\Media_Idade.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\obj\Debug\netcoreapp2.1\Media_Idade.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\obj\Debug\netcoreapp2.1\Media_Idade.dll
+D:\projetos\git\github\Exercicios_While\Media_Idade\Media_Idade\obj\Debug\netcoreapp2.1\Media_Idade.pdb

@@ -1,0 +1,17 @@
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\bin\Debug\netcoreapp2.1\Area_Triangulos.deps.json
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\bin\Debug\netcoreapp2.1\Area_Triangulos.runtimeconfig.json
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\bin\Debug\netcoreapp2.1\Area_Triangulos.runtimeconfig.dev.json
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\bin\Debug\netcoreapp2.1\Area_Triangulos.dll
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\bin\Debug\netcoreapp2.1\Area_Triangulos.pdb
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.csprojAssemblyReference.cache
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.AssemblyInfoInputs.cache
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.AssemblyInfo.cs
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.dll
+D:\projetos\git\github\programa_sem_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.pdb
+D:\projetos\git\github\programa_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.csprojAssemblyReference.cache
+D:\projetos\git\github\programa_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\programa_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.AssemblyInfoInputs.cache
+D:\projetos\git\github\programa_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.AssemblyInfo.cs
+D:\projetos\git\github\programa_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.dll
+D:\projetos\git\github\programa_oo\Area_Triangulos\Area_Triangulos\obj\Debug\netcoreapp2.1\Area_Triangulos.pdb

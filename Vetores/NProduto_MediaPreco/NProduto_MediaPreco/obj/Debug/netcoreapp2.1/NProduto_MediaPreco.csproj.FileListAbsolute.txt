@@ -1,0 +1,11 @@
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\bin\Debug\netcoreapp2.1\NProduto_MediaPreco.deps.json
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\bin\Debug\netcoreapp2.1\NProduto_MediaPreco.runtimeconfig.json
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\bin\Debug\netcoreapp2.1\NProduto_MediaPreco.runtimeconfig.dev.json
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\bin\Debug\netcoreapp2.1\NProduto_MediaPreco.dll
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\bin\Debug\netcoreapp2.1\NProduto_MediaPreco.pdb
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\obj\Debug\netcoreapp2.1\NProduto_MediaPreco.csprojAssemblyReference.cache
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\obj\Debug\netcoreapp2.1\NProduto_MediaPreco.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\obj\Debug\netcoreapp2.1\NProduto_MediaPreco.AssemblyInfoInputs.cache
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\obj\Debug\netcoreapp2.1\NProduto_MediaPreco.AssemblyInfo.cs
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\obj\Debug\netcoreapp2.1\NProduto_MediaPreco.dll
+D:\projetos\git\github\Vetores\NProduto_MediaPreco\NProduto_MediaPreco\obj\Debug\netcoreapp2.1\NProduto_MediaPreco.pdb

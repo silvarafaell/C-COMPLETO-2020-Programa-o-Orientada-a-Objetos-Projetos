@@ -1,0 +1,11 @@
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\obj\Debug\netcoreapp2.1\AluguelQuartos.csprojAssemblyReference.cache
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\obj\Debug\netcoreapp2.1\AluguelQuartos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\obj\Debug\netcoreapp2.1\AluguelQuartos.AssemblyInfoInputs.cache
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\obj\Debug\netcoreapp2.1\AluguelQuartos.AssemblyInfo.cs
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\bin\Debug\netcoreapp2.1\AluguelQuartos.deps.json
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\bin\Debug\netcoreapp2.1\AluguelQuartos.runtimeconfig.json
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\bin\Debug\netcoreapp2.1\AluguelQuartos.runtimeconfig.dev.json
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\bin\Debug\netcoreapp2.1\AluguelQuartos.dll
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\bin\Debug\netcoreapp2.1\AluguelQuartos.pdb
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\obj\Debug\netcoreapp2.1\AluguelQuartos.dll
+D:\projetos\git\github\Vetores\AluguelQuartos\AluguelQuartos\obj\Debug\netcoreapp2.1\AluguelQuartos.pdb

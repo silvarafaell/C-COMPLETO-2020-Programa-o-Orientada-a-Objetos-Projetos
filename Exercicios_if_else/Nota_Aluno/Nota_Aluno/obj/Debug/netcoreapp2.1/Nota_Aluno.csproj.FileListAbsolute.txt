@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp2.1\Nota_Aluno.deps.json
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp2.1\Nota_Aluno.runtimeconfig.json
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp2.1\Nota_Aluno.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp2.1\Nota_Aluno.dll
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp2.1\Nota_Aluno.pdb
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp2.1\Nota_Aluno.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp2.1\Nota_Aluno.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp2.1\Nota_Aluno.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp2.1\Nota_Aluno.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp2.1\Nota_Aluno.dll
+D:\projetos\git\github\Exercicios_if_else\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp2.1\Nota_Aluno.pdb

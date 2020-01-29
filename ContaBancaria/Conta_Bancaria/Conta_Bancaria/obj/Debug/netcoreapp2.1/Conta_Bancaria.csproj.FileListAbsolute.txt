@@ -1,0 +1,21 @@
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.deps.json
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.runtimeconfig.json
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.runtimeconfig.dev.json
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.dll
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.pdb
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.csprojAssemblyReference.cache
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.AssemblyInfoInputs.cache
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.AssemblyInfo.cs
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.dll
+D:\projetos\git\github\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.pdb
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.deps.json
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.runtimeconfig.json
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.runtimeconfig.dev.json
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.dll
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp2.1\Conta_Bancaria.pdb
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.csprojAssemblyReference.cache
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.AssemblyInfoInputs.cache
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.AssemblyInfo.cs
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.dll
+D:\projetos\git\github\C# COMPLETO 2020 Programação Orientada a Objetos\ContaBancaria\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp2.1\Conta_Bancaria.pdb

@@ -1,0 +1,11 @@
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp3.0\Xadrez_Console.exe
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp3.0\Xadrez_Console.deps.json
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp3.0\Xadrez_Console.runtimeconfig.json
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp3.0\Xadrez_Console.runtimeconfig.dev.json
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp3.0\Xadrez_Console.dll
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp3.0\Xadrez_Console.pdb
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp3.0\Xadrez_Console.csprojAssemblyReference.cache
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp3.0\Xadrez_Console.AssemblyInfoInputs.cache
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp3.0\Xadrez_Console.AssemblyInfo.cs
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp3.0\Xadrez_Console.dll
+D:\projetos\git\github\XadrezConsole\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp3.0\Xadrez_Console.pdb

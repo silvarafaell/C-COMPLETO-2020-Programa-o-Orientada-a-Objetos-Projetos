@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\obj\Debug\netcoreapp2.1\Valores_Retangulo.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\obj\Debug\netcoreapp2.1\Valores_Retangulo.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\obj\Debug\netcoreapp2.1\Valores_Retangulo.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\obj\Debug\netcoreapp2.1\Valores_Retangulo.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\bin\Debug\netcoreapp2.1\Valores_Retangulo.deps.json
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\bin\Debug\netcoreapp2.1\Valores_Retangulo.runtimeconfig.json
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\bin\Debug\netcoreapp2.1\Valores_Retangulo.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\bin\Debug\netcoreapp2.1\Valores_Retangulo.dll
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\bin\Debug\netcoreapp2.1\Valores_Retangulo.pdb
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\obj\Debug\netcoreapp2.1\Valores_Retangulo.dll
+D:\projetos\git\github\Exercicios_OO\Valores_Retangulo\Valores_Retangulo\obj\Debug\netcoreapp2.1\Valores_Retangulo.pdb

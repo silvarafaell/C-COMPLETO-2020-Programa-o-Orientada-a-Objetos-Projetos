@@ -1,0 +1,11 @@
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\bin\Debug\netcoreapp2.1\Curso_Alunos.deps.json
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\bin\Debug\netcoreapp2.1\Curso_Alunos.runtimeconfig.json
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\bin\Debug\netcoreapp2.1\Curso_Alunos.runtimeconfig.dev.json
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\bin\Debug\netcoreapp2.1\Curso_Alunos.dll
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\bin\Debug\netcoreapp2.1\Curso_Alunos.pdb
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\obj\Debug\netcoreapp2.1\Curso_Alunos.csprojAssemblyReference.cache
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\obj\Debug\netcoreapp2.1\Curso_Alunos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\obj\Debug\netcoreapp2.1\Curso_Alunos.AssemblyInfoInputs.cache
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\obj\Debug\netcoreapp2.1\Curso_Alunos.AssemblyInfo.cs
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\obj\Debug\netcoreapp2.1\Curso_Alunos.dll
+D:\projetos\git\github\conjuntos\Curso_Alunos\Curso_Alunos\obj\Debug\netcoreapp2.1\Curso_Alunos.pdb

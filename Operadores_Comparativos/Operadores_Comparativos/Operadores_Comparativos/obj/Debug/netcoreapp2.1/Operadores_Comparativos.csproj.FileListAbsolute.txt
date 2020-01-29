@@ -1,0 +1,11 @@
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\bin\Debug\netcoreapp2.1\Operadores_Comparativos.deps.json
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\bin\Debug\netcoreapp2.1\Operadores_Comparativos.runtimeconfig.json
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\bin\Debug\netcoreapp2.1\Operadores_Comparativos.runtimeconfig.dev.json
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\bin\Debug\netcoreapp2.1\Operadores_Comparativos.dll
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\bin\Debug\netcoreapp2.1\Operadores_Comparativos.pdb
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\obj\Debug\netcoreapp2.1\Operadores_Comparativos.csprojAssemblyReference.cache
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\obj\Debug\netcoreapp2.1\Operadores_Comparativos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\obj\Debug\netcoreapp2.1\Operadores_Comparativos.AssemblyInfoInputs.cache
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\obj\Debug\netcoreapp2.1\Operadores_Comparativos.AssemblyInfo.cs
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\obj\Debug\netcoreapp2.1\Operadores_Comparativos.dll
+D:\projetos\git\github\Operadores_Comparativos\Operadores_Comparativos\Operadores_Comparativos\obj\Debug\netcoreapp2.1\Operadores_Comparativos.pdb

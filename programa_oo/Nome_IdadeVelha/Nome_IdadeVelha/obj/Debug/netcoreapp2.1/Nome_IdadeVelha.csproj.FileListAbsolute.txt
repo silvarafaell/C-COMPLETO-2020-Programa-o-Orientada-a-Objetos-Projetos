@@ -1,0 +1,11 @@
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\bin\Debug\netcoreapp2.1\Nome_IdadeVelha.deps.json
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\bin\Debug\netcoreapp2.1\Nome_IdadeVelha.runtimeconfig.json
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\bin\Debug\netcoreapp2.1\Nome_IdadeVelha.runtimeconfig.dev.json
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\bin\Debug\netcoreapp2.1\Nome_IdadeVelha.dll
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\bin\Debug\netcoreapp2.1\Nome_IdadeVelha.pdb
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\obj\Debug\netcoreapp2.1\Nome_IdadeVelha.csprojAssemblyReference.cache
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\obj\Debug\netcoreapp2.1\Nome_IdadeVelha.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\obj\Debug\netcoreapp2.1\Nome_IdadeVelha.AssemblyInfoInputs.cache
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\obj\Debug\netcoreapp2.1\Nome_IdadeVelha.AssemblyInfo.cs
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\obj\Debug\netcoreapp2.1\Nome_IdadeVelha.dll
+D:\projetos\git\github\programa_oo\Nome_IdadeVelha\Nome_IdadeVelha\obj\Debug\netcoreapp2.1\Nome_IdadeVelha.pdb

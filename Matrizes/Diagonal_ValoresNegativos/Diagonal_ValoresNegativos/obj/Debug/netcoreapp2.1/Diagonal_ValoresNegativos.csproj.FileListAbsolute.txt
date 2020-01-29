@@ -1,0 +1,11 @@
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\obj\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.csprojAssemblyReference.cache
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\obj\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\obj\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.AssemblyInfoInputs.cache
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\obj\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.AssemblyInfo.cs
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\bin\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.deps.json
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\bin\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.runtimeconfig.json
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\bin\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.runtimeconfig.dev.json
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\bin\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.dll
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\bin\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.pdb
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\obj\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.dll
+D:\projetos\git\github\Matrizes\Diagonal_ValoresNegativos\Diagonal_ValoresNegativos\obj\Debug\netcoreapp2.1\Diagonal_ValoresNegativos.pdb

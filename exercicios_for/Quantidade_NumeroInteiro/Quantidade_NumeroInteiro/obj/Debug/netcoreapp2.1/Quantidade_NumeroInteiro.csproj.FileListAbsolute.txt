@@ -1,0 +1,11 @@
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\bin\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.deps.json
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\bin\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.runtimeconfig.json
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\bin\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.runtimeconfig.dev.json
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\bin\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.dll
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\bin\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.pdb
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\obj\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\obj\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.AssemblyInfoInputs.cache
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\obj\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.AssemblyInfo.cs
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\obj\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.dll
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\obj\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.pdb
+D:\projetos\git\github\exercicios_for\Quantidade_NumeroInteiro\Quantidade_NumeroInteiro\obj\Debug\netcoreapp2.1\Quantidade_NumeroInteiro.csprojAssemblyReference.cache

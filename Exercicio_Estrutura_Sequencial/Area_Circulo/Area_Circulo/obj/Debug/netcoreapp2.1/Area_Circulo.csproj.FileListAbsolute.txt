@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\obj\Debug\netcoreapp2.1\Area_Circulo.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\obj\Debug\netcoreapp2.1\Area_Circulo.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\obj\Debug\netcoreapp2.1\Area_Circulo.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\obj\Debug\netcoreapp2.1\Area_Circulo.AssemblyInfo.cs
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\bin\Debug\netcoreapp2.1\Area_Circulo.deps.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\bin\Debug\netcoreapp2.1\Area_Circulo.runtimeconfig.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\bin\Debug\netcoreapp2.1\Area_Circulo.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\bin\Debug\netcoreapp2.1\Area_Circulo.dll
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\bin\Debug\netcoreapp2.1\Area_Circulo.pdb
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\obj\Debug\netcoreapp2.1\Area_Circulo.dll
+D:\projetos\git\github\Exercicio_Estrutura_Sequencial\Area_Circulo\Area_Circulo\obj\Debug\netcoreapp2.1\Area_Circulo.pdb

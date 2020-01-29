@@ -1,0 +1,11 @@
+C:\Users\Rafael\Downloads\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.deps.json
+C:\Users\Rafael\Downloads\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.runtimeconfig.json
+C:\Users\Rafael\Downloads\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.runtimeconfig.dev.json
+C:\Users\Rafael\Downloads\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.dll
+C:\Users\Rafael\Downloads\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.pdb
+C:\Users\Rafael\Downloads\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.csprojAssemblyReference.cache
+C:\Users\Rafael\Downloads\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Downloads\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.AssemblyInfoInputs.cache
+C:\Users\Rafael\Downloads\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.AssemblyInfo.cs
+C:\Users\Rafael\Downloads\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.dll
+C:\Users\Rafael\Downloads\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.pdb

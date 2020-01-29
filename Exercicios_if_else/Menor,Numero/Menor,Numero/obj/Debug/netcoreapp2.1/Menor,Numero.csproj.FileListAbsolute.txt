@@ -1,0 +1,11 @@
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\bin\Debug\netcoreapp2.1\Menor,Numero.deps.json
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\bin\Debug\netcoreapp2.1\Menor,Numero.runtimeconfig.json
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\bin\Debug\netcoreapp2.1\Menor,Numero.runtimeconfig.dev.json
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\bin\Debug\netcoreapp2.1\Menor,Numero.dll
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\bin\Debug\netcoreapp2.1\Menor,Numero.pdb
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\obj\Debug\netcoreapp2.1\Menor,Numero.csprojAssemblyReference.cache
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\obj\Debug\netcoreapp2.1\Menor,Numero.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\obj\Debug\netcoreapp2.1\Menor,Numero.AssemblyInfoInputs.cache
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\obj\Debug\netcoreapp2.1\Menor,Numero.AssemblyInfo.cs
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\obj\Debug\netcoreapp2.1\Menor,Numero.dll
+D:\projetos\git\github\Exercicios_if_else\Menor,Numero\Menor,Numero\obj\Debug\netcoreapp2.1\Menor,Numero.pdb

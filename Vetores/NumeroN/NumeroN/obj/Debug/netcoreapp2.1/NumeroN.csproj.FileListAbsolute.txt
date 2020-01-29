@@ -1,0 +1,11 @@
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\bin\Debug\netcoreapp2.1\NumeroN.deps.json
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\bin\Debug\netcoreapp2.1\NumeroN.runtimeconfig.json
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\bin\Debug\netcoreapp2.1\NumeroN.runtimeconfig.dev.json
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\bin\Debug\netcoreapp2.1\NumeroN.dll
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\bin\Debug\netcoreapp2.1\NumeroN.pdb
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\obj\Debug\netcoreapp2.1\NumeroN.csprojAssemblyReference.cache
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\obj\Debug\netcoreapp2.1\NumeroN.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\obj\Debug\netcoreapp2.1\NumeroN.AssemblyInfoInputs.cache
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\obj\Debug\netcoreapp2.1\NumeroN.AssemblyInfo.cs
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\obj\Debug\netcoreapp2.1\NumeroN.dll
+D:\projetos\git\github\Vetores\NumeroN\NumeroN\obj\Debug\netcoreapp2.1\NumeroN.pdb

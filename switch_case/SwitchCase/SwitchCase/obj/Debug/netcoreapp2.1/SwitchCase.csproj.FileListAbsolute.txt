@@ -1,0 +1,11 @@
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.deps.json
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.runtimeconfig.json
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.runtimeconfig.dev.json
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.dll
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.pdb
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.csprojAssemblyReference.cache
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.csproj.CoreCompileInputs.cache
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.AssemblyInfoInputs.cache
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.AssemblyInfo.cs
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.dll
+D:\projetos\git\github\switch_case\SwitchCase\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.pdb
